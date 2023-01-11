@@ -1,0 +1,193 @@
+{
+  "banners": [
+    {
+      "name": "Пиццы",
+      "time_of_delivery": 50,
+      "stars": 4.5,
+      "price": 900,
+      "kitchen": "Пицца",
+      "image": "preview-pizza.jpg",
+      "products": "pizza.json"
+    },
+    {
+      "name": "Роллы",
+      "time_of_delivery": 60,
+      "stars": 4.3,
+      "price": 1200,
+      "kitchen": "Японская",
+      "image": "preview-tanuki.jpg",
+      "products": "tanuki.json"
+    },
+    {
+      "name": "Буррито",
+      "time_of_delivery": 50,
+      "stars": 4.5,
+      "price": 900,
+      "kitchen": "Буррито",
+      "image": "preview-burrito.jpg",
+      "products": "pizza.json"
+    },
+    {
+      "name": "Бургеры",
+      "time_of_delivery": 50,
+      "stars": 4.5,
+      "price": 900,
+      "kitchen": "Бургеры",
+      "image": "preview-cheeseburger.jpg",
+      "products": "pizza.json"
+    }
+  ],
+  "menu": [
+    {
+      "id": "1",
+      "name": "Маргарита",
+      "description": "Пицца соус, сыр Моцарелла, томат",
+      "price": 693,
+      "type": "pizza",
+      "image": "pizzas/margarita.jpg"
+    },
+    {
+      "id": "2",
+      "name": "ФИЛАДЕЛЬФИЯ НИСУАЗ",
+      "description": "Угорь, авокадо, сыр, тобико, соус «Нисуаз», кунжут, 6 шт.",
+      "price": 455,
+      "type": "tanuki",
+      "image": "tanuki/nisuaz.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Пепперони",
+      "description": "Пицца соус, пепперони, сыр Моцарелла",
+      "price": 595,
+      "type": "pizza",
+      "image": "pizzas/pepperoni.jpg"
+    },
+    {
+      "id": "4",
+      "name": "ФИЛАДЕЛЬФИЯ СМОУК",
+      "description": "Лосось копченый, курица копченая, омлет, огурец, авокадо, сыр, микс соусов, 6 шт.",
+      "price": 455,
+      "type": "tanuki",
+      "image": "tanuki/smoke.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Семь сыров",
+      "description": "Сыр моцарелла, сыр эмменталь, соус сырный, сыр горгондзола, сыр чеддер, сыр креметте, сыр фетакса, сыр пармезан",
+      "price": 785,
+      "type": "pizza",
+      "image": "pizzas/seven-cheeses.jpg"
+    },
+    {
+      "id": "6",
+      "name": "ФИЛАДЕЛЬФИЯ ФРЕШ",
+      "description": "Лосось, авокадо, огурец, сыр, омлет, тобико, микс соусов",
+      "price": 455,
+      "type": "tanuki",
+      "image": "tanuki/fresh.jpg"
+    },
+    {
+      "name": "Пицца",
+      "description": "помидоры",
+      "type": "pizza",
+      "id": "_xbH4zO"
+    }
+  ],
+  "calls": [
+    {
+      "id": "1",
+      "name": "Маргарита",
+      "phone": "+7833678433"
+    },
+    {
+      "name": "asdasd",
+      "phone": "+73495353434",
+      "id": "N-KPoDd"
+    },
+    {
+      "name": "asda",
+      "phone": "+78658234342",
+      "id": "q7wSa57"
+    },
+    {
+      "name": "asasd",
+      "phone": "+72342342344",
+      "id": "jhg68Oj"
+    },
+    {
+      "name": "asasd",
+      "phone": "+72342342344",
+      "id": "ocZICJa"
+    },
+    {
+      "name": "asasd",
+      "phone": "+72342342344",
+      "id": "cvpaQd7"
+    },
+    {
+      "name": "wqeqeqwe",
+      "phone": "+72342342343",
+      "id": "WTw2mLw"
+    },
+    {
+      "name": "Gagatyn",
+      "phone": "+79234234234",
+      "id": "5Flc4JS"
+    },
+    {
+      "name": "qweqwe",
+      "phone": "+72342342332",
+      "id": "c03CZs4"
+    },
+    {
+      "name": "asdasdsad",
+      "phone": "+72342423324",
+      "id": "O4i0_-l"
+    },
+    {
+      "name": "Temp",
+      "phone": "+72423423342",
+      "id": "tuRaO0-"
+    },
+    {
+      "name": "User",
+      "phone": "+72342423432",
+      "id": "3J0dpWo"
+    },
+    {
+      "name": "sdfsafsd",
+      "phone": "+73423423424",
+      "id": "R7pmdEc"
+    },
+    {
+      "name": "asdasdadad",
+      "phone": "+72423423423",
+      "id": "SdiGHHw"
+    },
+    {
+      "name": "Андрей",
+      "phone": "+72432534534",
+      "id": "hrnf_uA"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "product_id": 1,
+      "email": "temp@mail.ru",
+      "text": "Это мое любимое блюдо!"
+    },
+    {
+      "product_id": "2",
+      "email": "dfasfasdf@mail.ru",
+      "text": "asdfas",
+      "id": 2
+    },
+    {
+      "product_id": "2",
+      "email": "sdsad@mail.ru",
+      "text": "adsafasdfasdfadsf",
+      "id": 3
+    }
+  ]
+}
